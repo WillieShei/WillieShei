@@ -11,7 +11,7 @@ Currently based in Toronto and looking for a junior SOC / security analyst role.
  **Focus**: SIEM & log analysis, threat detection, incident response, phishing analysis, AI Security  
  **Working with**: Python · PowerShell · Sysmon · Wazuh · Active Directory · Windows Event Logs · Wireshark · Microsoft 365 Security    
  **Learning by building**: home detection lab on VirtualBox, mapping my work to MITRE ATT&CK, TryHackMe Rooms  
- **Credentials**: M.Eng InfoSec · Google Cybersecurity Professional Certificate · CompTIA Security+ (in progress)  
+ **Credentials**: M.Eng InfoSec · Google Cybersecurity Professional Certificate · THM AI Security · CompTIA Security+ (in progress)  
  **Reach me**: willieshei0@gmail.com · LinkedIn
  
  **Featured projects:**
