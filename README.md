@@ -6,7 +6,7 @@ M.Eng in Information Systems Security (Concordia University).
 
 I build detection labs, hunt attacks in logs, and turn technical chaos into clear, actionable reports. 
 
-Currently based in Toronto and looking for a junior SOC / security analyst role.
+Currently based in Toronto and looking for junior GRC, SOC / security analyst roles.
 
  **Focus**: SIEM & log analysis, threat detection, incident response, phishing analysis, AI Security  
  **Working with**: Python · PowerShell · Sysmon · Wazuh · Active Directory · Windows Event Logs · Wireshark · Microsoft 365 Security    
